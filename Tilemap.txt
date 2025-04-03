@@ -1,0 +1,10 @@
+IMAGE_NAME TileMap.png
+TILE_COUNT 2
+0 0 32 32
+32 0 32 32
+GRID 5 5
+1 1 1 1 1
+1 0 0 0 1
+1 0 0 0 1
+1 0 0 0 1
+1 1 1 1 1
